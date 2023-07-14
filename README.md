@@ -21,7 +21,7 @@ Charlie Ventura
 ## Heatmap 
 
 <p align = "center"> 
-  <img src="Screenshot 2023-07-13 at 9.02.49 PM.png">
+  <img src="Screenshot 2023-07-13 at 9.08.53 PM.png">
 </p>
 
 - There is a moderate correlation between Item MRP and Item Outlet Sales
