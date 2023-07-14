@@ -9,3 +9,9 @@ Charlie Ventura
 <p align = "center"> 
   <img src="Screenshot 2023-07-13 at 7.54.49 PM.png">
 </p>
+
+## Histogram of Item Outlet Sales
+
+<p align = "center"> 
+  <img src="Screenshot 2023-07-13 at 9.02.49 PM.png">
+</p>
